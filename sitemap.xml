@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dychi.github.io/blog/</loc>
+    <lastmod>2019-01-18T00:28:59+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dychi.github.io/moment/</loc>
+    <lastmod>2019-01-18T00:28:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dychi.github.io/about/</loc>
+    <lastmod>2019-01-18T00:27:55+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dychi.github.io/categories/</loc>
     <priority>0</priority>
   </url>
