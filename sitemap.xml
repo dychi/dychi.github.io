@@ -3,42 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dychi.github.io/posts/firstpost/</loc>
-    <lastmod>2019-01-17T02:05:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dychi.github.io/tags/blog/</loc>
-    <lastmod>2019-01-17T02:05:14+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dychi.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dychi.github.io/tags/css/</loc>
-    <lastmod>2019-01-17T02:05:14+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dychi.github.io/</loc>
-    <lastmod>2019-01-17T02:05:14+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dychi.github.io/categories/dailylife/</loc>
-    <lastmod>2019-01-17T02:05:14+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dychi.github.io/posts/</loc>
-    <lastmod>2019-01-17T02:05:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -49,7 +19,6 @@
   
   <url>
     <loc>https://dychi.github.io/tags/</loc>
-    <lastmod>2019-01-17T02:05:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
