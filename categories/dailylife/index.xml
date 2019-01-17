@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dailylife on Daichi Yamaoka</title>
+    <link>https://dychi.github.io/categories/dailylife/</link>
+    <description>Recent content in Dailylife on Daichi Yamaoka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 17 Jan 2019 02:05:14 +0900</lastBuildDate>
+    
+	<atom:link href="https://dychi.github.io/categories/dailylife/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Firstpost</title>
+      <link>https://dychi.github.io/posts/firstpost/</link>
+      <pubDate>Thu, 17 Jan 2019 02:05:14 +0900</pubDate>
+      
+      <guid>https://dychi.github.io/posts/firstpost/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
