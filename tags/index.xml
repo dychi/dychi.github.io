@@ -6,9 +6,28 @@
     <description>Recent content in Tags on Daichi Yamaoka</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Thu, 17 Jan 2019 02:05:14 +0900</lastBuildDate>
     
 	<atom:link href="https://dychi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Github</title>
+      <link>https://dychi.github.io/tags/github/</link>
+      <pubDate>Thu, 17 Jan 2019 02:05:14 +0900</pubDate>
+      
+      <guid>https://dychi.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://dychi.github.io/tags/hugo/</link>
+      <pubDate>Thu, 17 Jan 2019 02:05:14 +0900</pubDate>
+      
+      <guid>https://dychi.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
